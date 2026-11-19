@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="81px" viewBox="0 0 80 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="品牌区" transform="translate(-525.000000, -2013.000000)">
+            <g id="编组-4" transform="translate(0.000000, 1775.000000)">
+                <g id="编组-12" transform="translate(360.000000, 80.000000)">
+                    <g id="编组-2" transform="translate(0.000000, 76.000000)">
+                        <g id="编组-11备份-6" transform="translate(16.000000, 16.000000)">
+                            <g id="Faceted-Icon/play_2" transform="translate(149.000000, 66.500000)">
+                                <g id="keyline"></g>
+                                <g id="播放" transform="translate(6.666667, 6.666667)">
+                                    <circle id="椭圆形-27" fill="#2D3132" cx="33.3333333" cy="33.3333333" r="33.3333333"></circle>
+                                    <path d="M26.6666667,20.8947822 L26.6666667,45.7718845 C26.6666667,46.0480268 26.8905243,46.2718845 27.1666667,46.2718845 C27.2591966,46.2718845 27.3499115,46.2462083 27.4287154,46.1977136 L47.641361,33.7591625 C47.8765399,33.614437 47.9498669,33.3064636 47.8051414,33.0712846 C47.7641197,33.0046244 47.7080212,32.9485258 47.641361,32.9075042 L27.4287154,20.4689531 C27.1935364,20.3242275 26.885563,20.3975545 26.7408375,20.6327335 C26.6923428,20.7115373 26.6666667,20.8022523 26.6666667,20.8947822 Z" id="icon_av_play_arrow_24px-2" fill="#FFFFFF"></path>
+                                </g>
+                                <rect id="bj" fill="#D8D8D8" opacity="0" x="0" y="0" width="80" height="80"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

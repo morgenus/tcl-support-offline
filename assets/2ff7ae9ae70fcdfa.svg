@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分配IP" transform="translate(-1368.000000, -122.000000)">
+            <g id="6.Icon/Web/2.Faceted-Icon/down" transform="translate(1060.000000, 112.000000)" filter="url(#filter-1)">
+                <g transform="translate(308.000000, 10.000000)">
+                    <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M16.7783934,9.68867925 C16.6121884,9.54716981 16.3905817,9.5 16.1689751,9.5 L7.85872576,9.54716981 C7.63711911,9.54716981 7.41551247,9.59433962 7.24930748,9.73584906 C6.91689751,10.0188679 6.91689751,10.4433962 7.24930748,10.7264151 L11.4044321,14.2641509 C11.4598338,14.3113208 11.5706371,14.3584906 11.6260388,14.4056604 L11.6814404,14.4528302 C11.9584488,14.5471698 12.3462604,14.5 12.567867,14.3113208 L16.7229917,10.7264151 C17.1108033,10.3962264 17.0554017,9.97169811 16.7783934,9.68867925 Z" id="Shape" fill="#2D3132" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

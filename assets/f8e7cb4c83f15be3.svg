@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>R</title>
+    <g id="KSP-图文组合" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1200-多图单文-上文下图" transform="translate(-1144.000000, -734.000000)">
+            <g id="编组-3" transform="translate(0.000000, 80.000000)">
+                <g id="R" transform="translate(1144.000000, 654.000000)">
+                    <rect id="矩形" x="0" y="0" width="48" height="48"></rect>
+                    <rect id="bj" x="0" y="0" width="48" height="48"></rect>
+                    <circle id="椭圆形" fill="#000000" opacity="0.200000003" cx="24" cy="24" r="20"></circle>
+                    <path d="M30.9439555,14 L31.8145712,14.8074813 C32.0422624,15.018661 32.0603357,15.3514776 31.8683958,15.5819626 L31.8150982,15.6381953 L31.8150982,15.6381953 L22.7090237,24.1032984 L31.592619,32.362241 L31.592619,32.362241 C31.8199961,32.5745184 31.8369281,32.9074195 31.6441785,33.1373191 L31.5916232,33.1925187 L30.7210075,34 L20,24.0640652 L20.8122026,23.3891787 L30.9439555,14 Z" id="路径" fill="#FFFFFF" transform="translate(26.000000, 24.000000) scale(-1, 1) translate(-26.000000, -24.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

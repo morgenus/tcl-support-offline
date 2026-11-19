@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>refrigerator</title>
+    <g id="产品-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网售后icon" transform="translate(-546.000000, -794.000000)">
+            <g id="refrigerator" transform="translate(546.000000, 794.000000)">
+                <rect id="矩形" x="0" y="0" width="96" height="96"></rect>
+                <g id="编组-13" transform="translate(27.000000, 7.000000)">
+                    <rect id="矩形" fill="#080A1C" x="0" y="0" width="42" height="80" rx="1"></rect>
+                    <rect id="矩形" fill="#FFFFFF" x="2" y="2" width="38" height="76"></rect>
+                    <rect id="矩形备份-5" fill="#9C9DA4" x="21" y="2" width="1" height="76"></rect>
+                    <rect id="矩形备份-5" fill="#9C9DA4" x="2" y="40" width="38" height="1"></rect>
+                    <rect id="矩形备份-12" fill="#080A1C" x="26" y="13" width="11" height="20"></rect>
+                    <rect id="矩形备份-4" fill="#080A1C" x="7" y="78" width="6" height="3"></rect>
+                    <rect id="矩形备份-5" fill="#080A1C" x="30" y="78" width="6" height="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

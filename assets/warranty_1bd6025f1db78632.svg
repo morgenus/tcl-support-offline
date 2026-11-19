@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TV</title>
+    <g id="产品-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网售后icon" transform="translate(-368.000000, -794.000000)">
+            <g id="TV" transform="translate(368.000000, 794.000000)">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="96" height="96"></rect>
+                <g id="编组-2" transform="translate(5.000000, 22.000000)">
+                    <path d="M19,45.9728094 L4.86468694,53.5853009 C4.71896446,53.6637789 4.55604151,53.7048602 4.39053067,53.7048602 L2.50040506,53.7048602 C2.30999374,53.7048602 2.15563486,53.5505013 2.15563486,53.36009 C2.15563486,53.2446026 2.2134574,53.1367856 2.30965991,53.0728918 L13,45.9728094 L19,45.9728094 Z" id="路径" fill="#080A1C"></path>
+                    <path d="M72.9205196,45.9728094 L83.6108597,53.0728918 C83.7070622,53.1367856 83.7648848,53.2446026 83.7648848,53.36009 C83.7648848,53.5266999 83.6467037,53.6657071 83.4895978,53.6978557 L83.4201146,53.7048602 L81.529989,53.7048602 C81.4058558,53.7048602 81.2831784,53.6817519 81.1681213,53.6370899 L81.0558327,53.5853009 L66.9205196,45.9728094 L72.9205196,45.9728094 Z" id="路径" fill="#080A1C"></path>
+                    <rect id="矩形" fill="#080A1C" x="0" y="0" width="86" height="48" rx="1"></rect>
+                    <rect id="矩形" fill="#FFFFFF" x="2" y="2" width="82" height="43"></rect>
+                    <rect id="矩形" fill="#9C9DA4" opacity="0.300000012" transform="translate(8.899495, 8.899495) rotate(-315.000000) translate(-8.899495, -8.899495) " x="7.89949494" y="1.89949494" width="2" height="14"></rect>
+                    <rect id="矩形备份" fill="#9C9DA4" opacity="0.300000012" transform="translate(13.253048, 13.545942) rotate(-315.000000) translate(-13.253048, -13.545942) " x="12.2530483" y="1.04594155" width="2" height="25"></rect>
+                </g>
+                <g id="编组-3" transform="translate(34.000000, 45.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="备注画板" transform="translate(-1528.000000, -1428.000000)">
+            <g id="编组-3备份-2" transform="translate(360.000000, 1400.000000)">
+                <g id="r" transform="translate(600.000000, 16.000000)">
+                    <g id="编组-4" transform="translate(96.000000, 0.000000)">
+                        <g id="6.Icon/Web/1.Linear-Icon/edit" transform="translate(472.000000, 12.000000)">
+                            <rect id="bj" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M13.1764706,2 L13.4109484,2.23447783 C13.6712979,2.49482736 13.6712979,2.91693735 13.4109484,3.17728687 L8.70533333,7.882 L14,13.1764706 L13.7655222,13.4109484 C13.5051726,13.6712979 13.0830627,13.6712979 12.8227131,13.4109484 L8,8.588 L2.58823529,14 L2.35375746,13.7655222 C2.09340793,13.5051726 2.09340793,13.0830627 2.35375746,12.8227131 L7.294,7.882 L2,2.58823529 L2.23447783,2.35375746 C2.49482736,2.09340793 2.91693735,2.09340793 3.17728687,2.35375746 L8,7.176 L13.1764706,2 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

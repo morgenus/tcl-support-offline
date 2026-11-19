@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="time-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1200" transform="translate(-632.000000, -1560.000000)">
+            <g id="编组-17" transform="translate(16.000000, 80.000000)">
+                <g id="编组-32" transform="translate(512.000000, 1468.000000)">
+                    <g id="编组-2" transform="translate(24.000000, 11.000000)">
+                        <g id="线性icon/下拉" transform="translate(80.000000, 1.000000)">
+                            <g id="keyline"></g>
+                            <g id="icon_Down" fill-rule="nonzero">
+                                <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                                <path d="M5.21855382,2.33333333 L5.16605761,2.37909619 C4.74974837,2.74200811 4.70646129,3.37369167 5.06937321,3.79000091 C5.09115401,3.81498644 5.1141636,3.83887359 5.13831678,3.86157389 L9.89625341,8.33330847 L9.89625341,8.33330847 L5.13830935,12.8050926 C4.73587056,13.1833272 4.71624924,13.8161881 5.0944839,14.2186269 C5.11718324,14.2427788 5.1410693,14.2657873 5.16605363,14.287567 L5.21855382,14.3333333 L5.21855382,14.3333333 L11.6666667,8.33333333 L5.21855382,2.33333333 Z" id="蒙版" fill="#2D3132" transform="translate(8.000000, 8.333333) rotate(-270.000000) translate(-8.000000, -8.333333) "></path>
+                            </g>
+                            <rect id="bj" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
