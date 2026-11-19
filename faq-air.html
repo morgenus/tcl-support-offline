@@ -1988,7 +1988,10 @@ li.support-host > .header-depth2-wrap { display: none !important; }
     if (left + w > window.innerWidth - 8) left = Math.max(8, window.innerWidth - w - 8);
     panel.style.width = w + 'px';
     panel.style.left = left + 'px';
-    panel.style.top = Math.round(ref.bottom + 2) + 'px';
+    var top = Math.round(ref.bottom + 2);
+    var h = panel.offsetHeight || 400;
+    if (top + h > window.innerHeight - 8) top = Math.max(8, window.innerHeight - h - 8);
+    panel.style.top = top + 'px';
   }
   function hide(){
     if (panel) panel.style.display = 'none';
