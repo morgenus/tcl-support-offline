@@ -4924,20 +4924,10 @@ li.support-host > .header-depth2-wrap { display: none !important; }
     if (wrap) wrap.style.setProperty('display', 'none', 'important');
   }
   function measureReference(){
-    var links = document.querySelectorAll('.header-depth1-link');
-    for (var i = 0; i < links.length; i++) {
-      if ((links[i].textContent || '').trim() !== 'Бытовая техника') continue;
-      var li = links[i].closest('li');
-      var inner = li ? li.querySelector('.header-depth2-inner') : null;
-      if (inner) {
-        var b = inner.getBoundingClientRect();
-        if (b.width > 0) return {left:b.left, width:b.width, bottom:b.bottom};
-      }
-    }
     var bar = document.querySelector('.header-bar-inner');
     if (bar) {
-      var b2 = bar.getBoundingClientRect();
-      if (b2.width > 0) return {left:b2.left, width:b2.width, bottom:b2.bottom};
+      var b = bar.getBoundingClientRect();
+      if (b.width > 0) return {left:b.left, width:b.width, bottom:b.bottom};
     }
     return null;
   }
@@ -4955,6 +4945,7 @@ li.support-host > .header-depth2-wrap { display: none !important; }
     var w = Math.round(Math.min(ref.width, window.innerWidth - 16));
     var left = Math.round(ref.left);
     if (left + w > window.innerWidth - 8) left = Math.max(8, window.innerWidth - w - 8);
+    if (left < 8) left = 8;
     panel.style.width = w + 'px';
     var top = Math.round(ref.bottom + 2);
     if (window.innerWidth < 768) {
@@ -4984,6 +4975,9 @@ li.support-host > .header-depth2-wrap { display: none !important; }
       if (!to || !(to.closest && to.closest('.header-nav, .support-mega'))) hide();
     }
   }, true);
+  window.addEventListener('resize', function(){
+    if (panel && panel.style.display === 'block') show();
+  });
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', function(){ patch(); setTimeout(patch, 300); });
   else { patch(); setTimeout(patch, 300); }
   setInterval(patch, 200);
